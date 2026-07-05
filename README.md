@@ -2,13 +2,13 @@
 
 ### Data Analyst | Python Developer | Turning Data into Actionable Insights 📊
 
-I'm a Computer Engineering graduate with a passion for Data Analytics, Business Intelligence, and AI-driven solutions. I enjoy transforming raw data into meaningful insights through analysis, visualization, and automation. I believe data tells a story, and my goal is to uncover that story to support smarter business decisions.
+I'm a Electronics and Telecommunication(ENTC)  graduate with a passion for Data Analytics, Business Intelligence, and AI-driven solutions. I enjoy transforming raw data into meaningful insights through analysis, visualization, and automation. I believe data tells a story, and my goal is to uncover that story to support smarter business decisions.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Graduate
+- 🎓 Electronics and Telecommunication(ENTC) Graduate
 - 📊 Data Analyst with a strong foundation in data analysis and visualization
 - 🐍 Proficient in Python for data analysis and automation
 - 🗄️ Experienced in SQL and database management
