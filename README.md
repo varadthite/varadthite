@@ -13,7 +13,6 @@ I'm a Electronics and Telecommunication(ENTC)  graduate with a passion for Data 
 - 🐍 Proficient in Python for data analysis and automation
 - 🗄️ Experienced in SQL and database management
 - 📈 Skilled in building interactive dashboards using Power BI
-- 🤖 Developed an AI-Powered Student Assistance Chatbot
 - 💼 Open to Data Analyst and Business Intelligence opportunities
 - 🚀 Passionate about solving real-world problems using data
 
