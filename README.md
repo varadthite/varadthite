@@ -66,28 +66,6 @@ Graduated: 2026
 
 ---
 
-## 🚀 Projects
-
-### 🤖 AI-Powered Student Assistance Chatbot
-
-An intelligent chatbot developed to assist students by providing instant answers to academic and administrative queries. The system improves accessibility to information while reducing manual effort through an easy-to-use conversational interface.
-
-**Key Features**
-- Student query assistance
-- Admin panel for content management
-- Responsive web interface
-- Secure login system
-
-**Technologies Used**
-- Python
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQLite
-
----
-
 ## 💪 Core Strengths
 
 - Analytical Thinking
