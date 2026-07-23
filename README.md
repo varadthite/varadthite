@@ -1,92 +1,164 @@
-# Hi there! 👋 I'm Varad Thite
+# Hi there 👋 I'm Varad Thite
 
-### Data Analyst | Python Developer | Turning Data into Actionable Insights 📊
+# Data Analyst | Business Intelligence | Python Developer
 
-I'm a Electronics and Telecommunication(ENTC)  graduate with a passion for Data Analytics, Business Intelligence, and AI-driven solutions. I enjoy transforming raw data into meaningful insights through analysis, visualization, and automation. I believe data tells a story, and my goal is to uncover that story to support smarter business decisions.
-
----
-
-## 🚀 About Me
-
-- 🎓 Electronics and Telecommunication(ENTC) Graduate
-- 📊 Data Analyst with a strong foundation in data analysis and visualization
-- 🐍 Proficient in Python for data analysis and automation
-- 🗄️ Experienced in SQL and database management
-- 📈 Skilled in building interactive dashboards using Power BI
-- 💼 Open to Data Analyst and Business Intelligence opportunities
-- 🚀 Passionate about solving real-world problems using data
+Transforming raw data into meaningful business insights through analytics, visualization, and cloud-based data engineering.
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### Programming Languages
+🎓 Bachelor of Engineering (Electronics & Telecommunication)
+
+📊 Passionate Data Analyst specializing in:
+
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- ETL Pipelines
+- Cloud Data Analytics
+
+I enjoy building end-to-end data solutions that transform messy datasets into actionable business insights using Python, SQL, Power BI, and AWS.
+
+Currently looking for opportunities as a:
+
+- Data Analyst
+- Business Intelligence Analyst
+- Junior Data Engineer
+- Python Developer
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
 - Python
 - SQL
 
 ### Data Analytics
+
 - Data Cleaning
-- Data Analysis
 - Exploratory Data Analysis (EDA)
 - Data Visualization
+- Statistical Analysis
 - Business Intelligence
 
 ### Python Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-### Database
-- MySQL
+### Databases
 
-### Visualization Tools
+- MySQL
+- Relational Database Management Systems (RDBMS)
+
+### Business Intelligence
+
 - Power BI
+- Tableau
 - Microsoft Excel
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- Flask
+### Cloud Technologies
 
-### Version Control
+- AWS Lambda
+- Amazon S3
+- Amazon Athena
+- AWS Glue
+- AWS Glue DataBrew
+- Amazon QuickSight
+
+### Tools
+
 - Git
 - GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## 🎓 Education
+# 🚀 Featured Projects
 
-**Bachelor of Engineering (B.E.) in Computer Engineering**
+## 🏥 Healthcare Data Processing and Analytics System
 
-NBN Sinhgad School of Engineering, Pune
+### Tech Stack
 
-Graduated: 2026
+Python • SQL • MySQL • AWS Lambda • Amazon S3 • Athena • Glue • QuickSight
 
----
+### Highlights
 
-## 💪 Core Strengths
+✅ Built an end-to-end ETL pipeline
 
-- Analytical Thinking
-- Problem Solving
-- Data Visualization
-- Attention to Detail
-- Team Collaboration
-- Continuous Learning
-- Effective Communication
+✅ Processed healthcare datasets from multiple sources
 
----
+✅ Automated missing value handling and validation
 
+✅ Integrated AWS Lambda for serverless automation
 
-## 📫 Let's Connect
+✅ Stored structured data in MySQL
 
-📧 Email: varadthite99@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/varad-thite-8b0302271/
-
+✅ Built AWS QuickSight dashboards for healthcare insights
 
 ---
 
+## 📈 Ecommerce Sales Dashboard
 
-⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss opportunities.
+### Tech Stack
+
+Power BI • Python • SQL • MySQL
+
+### Highlights
+
+✅ Analyzed 2,000+ sales records
+
+✅ Built interactive Power BI dashboards
+
+✅ Created KPI cards
+
+- Total Sales
+- Profit
+- Quantity
+- Average Order Value
+
+✅ Used DAX measures
+
+✅ Connected MySQL with Power BI
+
+✅ Built dynamic filters for state-wise and quarter-wise analysis
+
+---
+
+# 📜 Certifications
+
+🏅 Deloitte Data Analytics Job Simulation
+
+🏅 Simplilearn Introduction to Data Analytics
+
+🏅 Simplilearn Power BI for Beginners
+
+🏅 CodeWithHarry Python Bootcamp
+
+🏅 CodeWithHarry Data Science, AI & ML
+
+🏅 Great Learning Personality Development
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**varadthite99@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/varad-thite-8b0302271/
+
+---
+
+⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐.
